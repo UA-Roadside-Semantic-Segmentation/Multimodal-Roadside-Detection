@@ -1,0 +1,8 @@
+opencv-python
+matplotlib
+tensorflow
+h5py
+numpy
+pandas
+git+https://github.com/microsoft/onnxconverter-common
+git+https://github.com/onnx/keras-onnx
