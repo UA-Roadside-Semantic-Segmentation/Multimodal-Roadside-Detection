@@ -1,7 +1,8 @@
-# Ricks Camera/Lidar Deep Learning
+# UA Roadside Semantic Segmentation
 
 ## Overview
-This repository contains all of the packages for deep learning.
+This repository contains all of the packages required for the camera and 
+lidar semantic segmentation models.
 
 ## Installation
 To install the packages so that you can use them together (ex. 
@@ -18,7 +19,7 @@ cameras (ex. image training scripts)
 
 ### dl_lidar
 This package contains all files that are specific to deep learning for
-lidars for the project(ex. pcd training scripts)
+lidars for the project (ex. pcd training scripts)
 
 ### dl_utils
 This package contains anything that may be useful in other deep learning 
