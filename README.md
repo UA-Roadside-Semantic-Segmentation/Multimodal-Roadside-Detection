@@ -1,7 +1,6 @@
 # Multimodal Roadside Vehicle Detection System
 
 [![Sensors](https://img.shields.io/badge/Sensors-Published-blue)](https://www.mdpi.com/1424-8220/25/2/370)
-[![License: CC BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fs25020370-blue)](https://doi.org/10.3390/s25020370)
 
@@ -48,7 +47,13 @@ Multimodal-Roadside-Detection/
 ```
 
 ---
+An inference example of the camera model with train car targets as well as the 32MR model output with semi-truck targets are shown below. 
 
+Camera Train Car Model             |  32MR Semi-Truck Model
+:-------------------------:|:-------------------------:
+![camera_train](https://github.com/UA-Roadside-Semantic-Segmentation/Multimodal-Roadside-Detection/blob/main/Figures/cam_train.PNG)  |  ![32mr_truck](https://github.com/UA-Roadside-Semantic-Segmentation/Multimodal-Roadside-Detection/blob/main/Figures/32mr_truck.jpg)
+
+---
 ## Getting Started
 
 ### Prerequisites
@@ -254,4 +259,4 @@ And the dataset paper:
 
 ## License
 
-This project is licensed under the CC BY License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY License.
